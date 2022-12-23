@@ -96,6 +96,19 @@ body {
     padding: 12px;
   }
   
+.btn:hover {
+    cursor: pointer;
+    background-color: #001d3d;
+    opacity: 0.5s;
+  }
+
+  
+  
+  @media (max-width: 500px) {
+    .container {
+      width: 350px;
+    }
+  }
   .btn{
     background-color: Transparent;
     width: 40px;
