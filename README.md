@@ -19,13 +19,15 @@
 
 ### Screenshot
 
+![](screenshot.png) 
+
 
 
 
 ### Links
 
-- [Solution URL](https://github.com/Dachi-Papashvili88/basketball-scoreboard)
-- [live site URL](https://dachi-papashvili88.github.io/basketball-scoreboard/)
+- [Solution](https://github.com/Dachi-Papashvili88/basketball-scoreboard)
+- [live](https://dachi-papashvili88.github.io/basketball-scoreboard/)
 
 ## My process
 
